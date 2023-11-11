@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697833161737",
+    "project_id": "smsapitest-20d23",
+    "storage_bucket": "smsapitest-20d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697833161737:android:2347a6443583f23724a4d8",
+        "android_client_info": {
+          "package_name": "com.team71.receivesms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697833161737-8b2nbhbujdn5kns0oqcicam6ib8cpmqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrvr13Stnas_5pIa7pL_RL7KiXtz_5oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697833161737-8b2nbhbujdn5kns0oqcicam6ib8cpmqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
